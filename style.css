@@ -25,7 +25,7 @@ h2{
     justify-content: center;
 }
 
-#block1{
+#block2{
     display: flex;
     justify-content: space-evenly;
 }
